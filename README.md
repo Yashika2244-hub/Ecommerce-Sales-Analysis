@@ -10,7 +10,7 @@ This project showcases a complete end-to-end Sales Analysis using **Excel, Pytho
 - **Domain**: E-Commerce / Sales Analytics  
 - **Data Size**: $23M+ revenue | $3M+ profit | 222K+ units sold  
 - **Tools Used**:  
-  - 📗 Excel (Data Cleaning & Pivot Dashboard)  
+  - 📗 Excel (Data Cleaning & Pivot Dashboard) -[Google Sheets Link](https://docs.google.com/spreadsheets/d/1E0GN0m0L9lk1svoyzDThRqQ1uMNXNnLyu2i3ox00OFs/edit?usp=sharing)
   - 🐍 Python (ETL Processing)  
   - 🐬 MySQL (Database Integration & Querying)  
   - 📈 Power BI (Interactive Dashboards & Visualizations)
