@@ -10,7 +10,7 @@ Data Size: $23M+ revenue | $3M+ profit | 222K+ units sold
 
 Tools Used:
 
-📗 Excel (Data Cleaning, KPIs & Macro Dashboard) 
+📗 Excel (Data Cleaning, KPIs & Macro Dashboard) - https://1drv.ms/x/c/825398443c910690/EUkQ8V2dkxpOucn6_7YUVzwBASh55srb1gQCI4YAkUZ4cg?e=VgEcjw
 
 🐍 Python (ETL Processing)
 
